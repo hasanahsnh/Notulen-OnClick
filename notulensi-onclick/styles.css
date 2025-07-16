@@ -1,0 +1,38 @@
+/* styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom styles */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-gray-100 {
+    background-image: url('path/to/your/geometric-shapes.svg');
+    background-size: cover;
+    background-position: center;
+}
+
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-15px);
+    }
+}
+
+.floating {
+  animation: float 6s ease-in-out infinite;
+}
+
+#submitBtn:disabled {
+    pointer-events: none;
+}
