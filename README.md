@@ -1,19 +1,8 @@
-# my-replicate-app
+# App Description:
+Notulen OnClick merupakan aplikasi web sederhana untuk merangkum notulen (catatan rapat) secara otomatis dengan integrasi IBM Granite Model.
 
-This is a scaffoled Node.js project structure for running AI models with [Replicate's API](https://replicate.com/docs/get-started/nodejs).
+# How to Use:
+Anda dapat langsung menggunakan aplikasi dan menerapkannya pada saat sesi rapat berlangsung.
+Hasil yang diharapkan berupa rangkuman dari notulen yang Anda inputkan mengikuti format umum/dalam bentuk poin-poin.
 
-## Usage
-
-To get started, you'll need Node.js 18 or later. The simplest way to install it is using the installer at [nodejs.org](https://nodejs.org/).
-
-Next, grab a Replicate API token from [replicate.com/account](http://replicate.com/account) and set it as an environment variable:
-
-```console
-export REPLICATE_API_TOKEN=...
-```
-
-Then run your app:
-
-```console
-npm start
-```
+Anda bisa mencoba langsung fitur Notulen OnClick dengan mengunjungi website [Notulen OnClick](https://notulen-onclick-production.up.railway.app).
