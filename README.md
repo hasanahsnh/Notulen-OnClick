@@ -9,4 +9,4 @@ Anda bisa mencoba langsung fitur Notulen OnClick dengan mengunjungi website [Not
 
 # Preview
 ![](https://github.com/hasanahsnh/Notulen-OnClick/blob/0e444e1dc4a97e9fe7d580807d27cf463e0484de/Screenshot%202025-08-11%20183815.png)
-![](https://github.com/hasanahsnh/Notulen-OnClick/blob/0e444e1dc4a97e9fe7d580807d27cf463e0484de/Screenshot%202025-08-11%20183855.png)
+![](https://github.com/hasanahsnh/Notulen-OnClick/blob/0e444e1dc4a97e9fe7d580807d27cf463e0484de/Screenshot%202025-08-11%20183822.png)
